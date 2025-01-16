@@ -1,0 +1,119 @@
+*{
+    margin:0px;
+    padding: 0px;
+
+}
+h1{
+    text-align: center;
+}
+.load{
+    font-size: 30px;
+    margin-left:550px;
+    color:red;
+}
+.main{
+    width:400px;
+    height: 480px;
+    margin: 20px 0px 0px 430px;
+    background-color: aliceblue;
+    box-shadow: 1px 1px 2px 2px black;
+}
+.name{
+    position: absolute;
+    margin:10px 0px 0px 30px;
+    font-size:22px ;
+    border:none;
+}
+.name input{
+    position: absolute;
+    width:300px;
+    height:27px;
+    margin-top:2px;
+    border-top:1px solid black;
+    font-size:15px ;
+    
+}
+.last{
+    position: absolute;
+    margin:75px 0px 0px 30px;
+    font-size:20px ;
+}
+.last input{
+    position: absolute;
+    width:300px;
+    height:27px;
+    margin-top:2px;
+    border-top:1px solid black;
+    font-size:15px ;
+    
+}
+.email{
+    position: absolute;
+    margin:140px 0px 0px 30px;
+    font-size:20px ;
+}
+.email input{
+    position: absolute;
+    width:300px;
+    height:27px;
+    margin-top:2px;
+    border-top:1px solid black;
+    font-size:15px ;
+    
+}
+.contact{
+    position: absolute;
+    margin:207px 0px 0px 30px;
+    font-size:20px ;
+}
+.contact input{
+    position: absolute;
+    width:300px;
+    height:27px;
+    margin-top:2px;
+    border-top:1px solid black;
+    font-size:15px ;
+}
+.qualification{
+    position: absolute;
+    margin:275px 0px 0px 30px;
+    font-size:20px ;
+    
+}
+.qualification select{
+    position: absolute;
+    width:300px;
+    height:27px;
+    margin-top:2px;
+    border-top:1px solid black;
+    font-size:15px ;
+    cursor: pointer;
+  
+}
+.percentage{
+    position: absolute;
+    margin:340px 0px 0px 30px;
+    font-size:20px ;
+
+}
+.percentage input{
+    position: absolute;
+    width:300px;
+    height:27px;
+    margin-top:2px;
+    border-top:1px solid black;
+    font-size:15px ;
+  
+}
+button{
+    width:100px;
+    height:30px;
+    font-size: 20px;
+    margin:420px 0px 0px 130px;
+    cursor: pointer;
+    background-color:whitesmoke;
+}
+button:hover{
+    font-size:23px ;
+    background-color: blanchedalmond;
+}
