@@ -14,8 +14,10 @@
      . React Hook Form: For managing forms and handling validation.                                                                                                          
 
 --> Styling: CSS for responsive and user-friendly design.                                                                                                                     
---> Development: Locally hosted during development with scalable deployment options.                                                                                           
-Visit the Live Link: 
+--> Development: Locally hosted during development with scalable deployment options.      
+
+
+Visit the Live Link: https://deepfrontend07.github.io/React_Form_Handling/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
