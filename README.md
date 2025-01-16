@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# Form Handling by React_Form_Hook
 
+🚀 Features                                                                                                                                                                  
 
+--> React Framework: Built with modern React.js practices for clean and maintainable code.                                                                                    
+--> React Hook Form Integration: Simplified form handling with efficient validation and error management.                                                                     
+--> Form Reset: Automatically clears form fields after successful submission.                                                                                                 
+--> Dropdown Selection: Includes a dropdown for selecting qualifications.                                                                                                     
+
+🛠️ Technologies Used                                                                                                                                                         
+
+--> Frontend:                                                                                                                                                                
+     . React.js: Functional components with hooks for building the UI.                                                                                                        
+     . React Hook Form: For managing forms and handling validation.                                                                                                          
+
+--> Styling: CSS for responsive and user-friendly design.                                                                                                                     
+--> Development: Locally hosted during development with scalable deployment options.                                                                                           
+Visit the Live Link: 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
